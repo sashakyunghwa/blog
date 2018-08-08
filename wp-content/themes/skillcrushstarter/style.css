@@ -81,49 +81,49 @@ table {
 /* FONTS */
 @font-face {
 	font-family: 'OpenSans';
-	src: url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-regular.eot');
-	src: url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-regular.eot#iefix') format('embedded-opentype'),
-		url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-regular.woff') format('woff'),
-		url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-regular.ttf') format('truetype');
+	src: url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-regular.eot');
+	src: url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-regular.eot#iefix') format('embedded-opentype'),
+		url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-regular.woff') format('woff'),
+		url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-regular.ttf') format('truetype');
 	font-weight: normal;
 		font-weight: 400;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'OpenSans';
-	src: url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-bold.eot');
-	src: url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-bold.eot#iefix') format('embedded-opentype'),
-		url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-bold.woff') format('woff'),
-		url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-bold.ttf') format('truetype');
+	src: url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-bold.eot');
+	src: url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-bold.eot#iefix') format('embedded-opentype'),
+		url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-bold.woff') format('woff'),
+		url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-bold.ttf') format('truetype');
 	font-weight: bold;
 		font-weight: 700;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'OpenSans';
-	src: url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-semibold.eot');
-	src: url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-semibold.eot#iefix') format('embedded-opentype'),
-		url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-semibold.woff') format('woff'),
-		url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-semibold.ttf') format('truetype');
+	src: url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-semibold.eot');
+	src: url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-semibold.eot#iefix') format('embedded-opentype'),
+		url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-semibold.woff') format('woff'),
+		url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/opensans-semibold.ttf') format('truetype');
 	font-weight: 600;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Montserrat';
-	src: url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-regular.eot');
-	src: url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-regular.eot#iefix') format('embedded-opentype'),
-		url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-regular.woff') format('woff'),
-		url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-regular.ttf') format('truetype');
+	src: url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-regular.eot');
+	src: url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-regular.eot#iefix') format('embedded-opentype'),
+		url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-regular.woff') format('woff'),
+		url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-regular.ttf') format('truetype');
 	font-weight: normal;
 		font-weight: 400;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Montserrat';
-	src: url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-bold.eot');
-	src: url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-bold.eot#iefix') format('embedded-opentype'),
-		url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-bold.woff') format('woff'),
-		url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-bold.ttf') format('truetype');
+	src: url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-bold.eot');
+	src: url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-bold.eot#iefix') format('embedded-opentype'),
+		url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-bold.woff') format('woff'),
+		url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/fonts/montserrat-bold.ttf') format('truetype');
 	font-weight: bold;
 		font-weight: 700;
 	font-style: normal;
@@ -554,7 +554,7 @@ body {
 	border-left: none;
 	font: .875em/1.75em 'Open Sans', Arial, sans-serif;
 	height: 2.6em;
-	background: url('/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/white-arrow-right.png') no-repeat center #45ac9d;
+	background: url('https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/white-arrow-right.png') no-repeat center #45ac9d;
 	color: #ffffff;
 	margin-left: -5px;
 	padding: 0;
@@ -777,7 +777,7 @@ a, a:link, a:visited {
 /* HOMEPAGE STYLES */
 .home {
 	width: 100%;
-	background: url(/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/Skillcrush_Brooklyn_Bridge.jpg) no-repeat center center;
+	background: url(https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/Skillcrush_Brooklyn_Bridge.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -819,27 +819,27 @@ a, a:link, a:visited {
 	margin-right: .5em;
 }
 .home .content .soc-icon.tw {
-	background: url(/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/twitter-icon.png) no-repeat center 0;
+	background: url(https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/twitter-icon.png) no-repeat center 0;
 	background-size: cover;
 }
 .home .content .soc-icon.fb {
-	background: url(/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/facebook-icon.png) no-repeat center 0;
+	background: url(https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/facebook-icon.png) no-repeat center 0;
 	background-size: cover;
 }
 .home .content .soc-icon.ln {
-	background: url(/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/linkedin-icon.png) no-repeat center 0;
+	background: url(https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/linkedin-icon.png) no-repeat center 0;
 	background-size: cover;
 }
 .home .content .soc-icon.db {
-	background: url(/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/dribbble-icon.png) no-repeat center 0;
+	background: url(https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/dribbble-icon.png) no-repeat center 0;
 	background-size: cover;
 }
 .home .content .soc-icon.gh {
-	background: url(/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/github-icon.png) no-repeat center 0;
+	background: url(https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/github-icon.png) no-repeat center 0;
 	background-size: cover;
 }
 .home .content .soc-icon.in {
-	background: url(/https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/instagram-icon.png) no-repeat center 0;
+	background: url(https://sashakyunghwa.github.io/blog/wp-content/themes/skillcrushstarter/img/instagram-icon.png) no-repeat center 0;
 	background-size: cover;
 }
 .home .btn {

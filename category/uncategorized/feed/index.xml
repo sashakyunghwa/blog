@@ -10,7 +10,7 @@
 <channel>
 	<title>Uncategorized &#8211; Sasha Ross</title>
 	<atom:link href="http://localhost/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://sashakyunghwa.github.io/blog</link>
+	<link>https://sashakyunghwa.github.io/blog</link>
 	<description>WordPress Developer Extraordinaire</description>
 	<lastBuildDate>Tue, 07 Aug 2018 00:23:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,32 +19,32 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>Why WordPress?</title>
-		<link>/https://sashakyunghwa.github.io/blog/why-wordpress/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/why-wordpress/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/why-wordpress/</link>
+		<comments>https://sashakyunghwa.github.io/blog/why-wordpress/#respond</comments>
 		<pubDate>Thu, 24 May 2018 19:21:35 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/https://sashakyunghwa.github.io/blog/?p=5</guid>
-		<description><![CDATA[I think the question should be &#8216;WHY NOT WORDPRESS?!&#8217;. It&#8217;s the number one leading content management system that hosts millions of websites everyday. This is a growing field that is not going anywhere. Knowing that I have such an in-demand skill that many people need help with is a satisfying feeling. PLUS&#8230; it doesn&#8217;t hurt...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/why-wordpress/"><span>Read more</span> »</a></div>]]></description>
+		<guid isPermaLink="false">https://sashakyunghwa.github.io/blog/?p=5</guid>
+		<description><![CDATA[I think the question should be &#8216;WHY NOT WORDPRESS?!&#8217;. It&#8217;s the number one leading content management system that hosts millions of websites everyday. This is a growing field that is not going anywhere. Knowing that I have such an in-demand skill that many people need help with is a satisfying feeling. PLUS&#8230; it doesn&#8217;t hurt...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/why-wordpress/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>I think the question should be &#8216;WHY NOT WORDPRESS?!&#8217;. It&#8217;s the number one leading content management system that hosts millions of websites everyday. This is a growing field that is not going anywhere. Knowing that I have such an in-demand skill that many people need help with is a satisfying feeling.</p>
 <p>PLUS&#8230; it doesn&#8217;t hurt that I&#8217;m into the blogging scene as well. I could also work on creating my own blog site on here for my photography, fashion, and dance passions. Also, I can help other bloggers who are trying to customize and create a blog that fits their personality and true authentic self!</p>
 <p>This is MORE than exciting!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/why-wordpress/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/why-wordpress/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>WordPress for fun &#038; profit</title>
-		<link>/https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/#comments</comments>
+		<link>https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/</link>
+		<comments>https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/#comments</comments>
 		<pubDate>Sun, 12 Oct 2014 18:18:14 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[WordPress]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=39</guid>
-		<description><![CDATA[Want to know the secret to my success? How I managed to learn how to code and immediately start making money with my coding skills, while continuing to learn? The answer is simple: WordPress. WordPress is one of those incredible open source gifts that just gives and gives and gives some more. And for the...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[Want to know the secret to my success? How I managed to learn how to code and immediately start making money with my coding skills, while continuing to learn? The answer is simple: WordPress. WordPress is one of those incredible open source gifts that just gives and gives and gives some more. And for the...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p dir="ltr">Want to know the secret to <a href="http://skillcrush.com/2013/06/16/the-best-career-decision-i-ever-made/">my success</a>? How I managed to learn how to code and immediately start making money with my coding skills, while continuing to learn?</p>
 <p dir="ltr">The answer is simple: <a href="http://skillcrush.com/2013/08/01/wordpress-for-fun-profit/wordpress.org">WordPress</a>.</p>
 <p dir="ltr">WordPress is one of those incredible <a href="http://skillcrush.com/2012/08/29/open-source-software/">open source</a> gifts that just gives and gives and gives some more. And for the beginning coder who wants to keep learning new programming skills while making some money, WordPress is hands down the way to go.</p>
@@ -67,20 +67,20 @@ Oh, by the way, WordPress is incredibly easy to install on your local machine (l
 </strong>Last, but not least, knowing how to customize WordPress is a seriously marketable tech skill. There are many many freelancers and companies that have built entire careers on hacking WordPress. Just ask our friend <a href="http://skillcrush.com/2013/04/05/zoe-rooney/">Zoe</a>!</p>
 <p dir="ltr">Have I convinced you that WordPress is awesome? Fantastic! Watch out for a post next week about advanced WordPress techniques.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>WordPress.com or WordPress.org? How to choose the right one for your blog</title>
-		<link>/https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/</link>
+		<comments>https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 18:15:01 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[WordPress]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=37</guid>
-		<description><![CDATA[When I launched my blog in 2012, I went about it like this: I Googled “WordPress blog,” clicked a button that said, “get a free blog,” and I started rolling. A year later, I realized I should have done more research. I wanted to change my site layout and add functions (like a hovering Pinterest button), and...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[When I launched my blog in 2012, I went about it like this: I Googled “WordPress blog,” clicked a button that said, “get a free blog,” and I started rolling. A year later, I realized I should have done more research. I wanted to change my site layout and add functions (like a hovering Pinterest button), and...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>When I launched <a href="http://skillcrush.com/2014/06/05/wordpress-com-vs-wordpress-org/www.crandlecakes.com">my blog</a> in 2012, I went about it like this: I Googled “WordPress blog,” clicked <a href="http://zh.wordpress.com/">a button</a> that said, “get a free blog,” and I started rolling.</p>
 <p>A year later, I realized I should have done more research. I wanted to change my site layout and add functions (like a hovering Pinterest button), and I realized (oh nooos!) I needed a “WordPress.org blog” for that.</p>
 <p>Getting a “WordPress.org blog,” it turns out, really means downloading the free, open-source <a href="http://wordpress.org/">WordPress web software</a> and using a third-party hosting service (like GoDaddy or Bluehost) to get your site online.</p>
@@ -102,13 +102,13 @@ Oh, by the way, WordPress is incredibly easy to install on your local machine (l
 <p>Self-hosting is an upfront cost that ranges from a few dollars a month to closer to hundreds per year. But using a free WordPress.com blog and adding a lot of additional features can get pricey. Infographic cost comparison:<a href="http://howtomakemyblog.com/wordpress-com-org/">http://howtomakemyblog.com/wordpress-com-org/</a></p>
 <p>When it comes down to it, WordPress.com is a valuable tool for users looking for a free option, who don’t need to customize or make money off of their site. But getting a self-hosted site through WordPress.org provides the most flexibility, freedom, and opportunity for growth. And let’s face it, you’re going to want to use this site to become a moneybags, and WordPress.org allows more freedom for turning your hard work into cold hard cash.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Classifieds: WordPress Edition</title>
-		<link>/https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/</link>
+		<comments>https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 18:14:06 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Career]]></category>
@@ -116,7 +116,7 @@ Oh, by the way, WordPress is incredibly easy to install on your local machine (l
 		<category><![CDATA[WordPress]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=36</guid>
-		<description><![CDATA[Looking for a new job where you can put your tech know-how to work? Having digital skills opens up a world of career choices for you. Take a look at some of the latest and greatest jobs we’ve found that’ll let you flex your digital muscles. Today, we’re featuring jobs that require WordPress skills –...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[Looking for a new job where you can put your tech know-how to work? Having digital skills opens up a world of career choices for you. Take a look at some of the latest and greatest jobs we’ve found that’ll let you flex your digital muscles. Today, we’re featuring jobs that require WordPress skills –...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>Looking for a new job where you can put your tech know-how to work? Having digital skills opens up a world of career choices for you. Take a look at some of the latest and greatest jobs we’ve found that’ll let you flex your digital muscles.</p>
 <p>Today, we’re featuring jobs that require WordPress skills – and learn more by signing up to watch our webinar on Friday, August 1st: <a href="http://skillcrush.com/webinar-august-1st-signup">3 Ways to Make WordPress Bullet-Proof!</a></p>
 <p><strong>Position: <a href="https://bu.silkroad.com/epostings/index.cfm?fuseaction=app.dspjob&amp;jobid=296409&amp;company_id=15509&amp;version=1&amp;jobBoardId=1112">Designer, Marketing &amp; Communications, Interactive Design</a><br />
@@ -136,20 +136,20 @@ Company: <a href="http://infoscout.theresumator.com/apply/job_20140721170815_LB4
 Location: San Francisco, CA</strong><br />
 Put your marketing chops to work at this content marketing company, InfoScout. The current blog, InfoScout.co, is only scratching the surface of what can be done with the company’s data – so you will report directly to the CEO in this amazing opportunity to take the content to the next level. Bring your go-getter attitude to optimizing content, managing the WordPress blog, and growing the InfoScout newsletter base!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Tech Term: PHP</title>
-		<link>/https://sashakyunghwa.github.io/blog/tech-term-php/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/tech-term-php/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/tech-term-php/</link>
+		<comments>https://sashakyunghwa.github.io/blog/tech-term-php/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 18:13:16 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=35</guid>
-		<description><![CDATA[When you ask a web server for a page, it’s PHP’s job to create it. When you browse a WordPress blog or make a post on Facebook, PHP is putting it all together. If you wanted a very simple PHP page to greet you every time you looked at it, it might look something like...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/tech-term-php/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[When you ask a web server for a page, it’s PHP’s job to create it. When you browse a WordPress blog or make a post on Facebook, PHP is putting it all together. If you wanted a very simple PHP page to greet you every time you looked at it, it might look something like...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/tech-term-php/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>When you ask a web server for a page, it’s PHP’s job to create it. When you browse a WordPress blog or make a post on Facebook, PHP is putting it all together.</p>
 <p>If you wanted a very simple PHP page to greet you every time you looked at it, it might look something like this:</p>
 <p><code>&lt;?php echo “Hi there stranger!”; ?&gt;</code></p>
@@ -160,20 +160,20 @@ Put your marketing chops to work at this content marketing company, InfoScout. T
 <h5 class="cocktail-party-header">Cocktail Party Fact</h5>
 <p>PHP supposedly stands for “PHP: Hypertext Preprocessor.” If you said “Hey, but that doesn’t say what PHP means!” then you get the point ;).</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/tech-term-php/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/tech-term-php/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>4 Games You Will Want Your Kids to Play</title>
-		<link>/https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/</link>
+		<comments>https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 18:12:09 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=33</guid>
-		<description><![CDATA[It’s back to school season parents! Are you excited? Frantic? Both? You have a lot on your plate – starting hectic morning routines anew, helping with homework, packing healthy lunches, managing after school activities, WHEW.  And of-course during all this you’re probably wondering if your kids are learning the right things at school and how...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[It’s back to school season parents! Are you excited? Frantic? Both? You have a lot on your plate – starting hectic morning routines anew, helping with homework, packing healthy lunches, managing after school activities, WHEW.  And of-course during all this you’re probably wondering if your kids are learning the right things at school and how...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>It’s back to school season parents! Are you excited? Frantic? Both? You have a lot on your plate – starting hectic morning routines anew, helping with homework, packing healthy lunches, managing after school activities, WHEW.  And of-course during all this you’re probably wondering if your kids are learning the right things at school and how you can supplement their education at home.</p>
 <p>You’ve no doubt heard about the importance of computer literacy and getting your kids into programming and coding. But with the abundance of apps, toys, and books available, it’s hard to know where to start. Here are my top 4 choices for parents looking to get their young ones into tech:</p>
 <h3>1. <a href="http://www.gethopscotch.com/" target="_blank">Hopscotch</a></h3>
@@ -186,20 +186,20 @@ Put your marketing chops to work at this content marketing company, InfoScout. T
 <p>I learned about Tynker from my old boss, who’s wife Tanya homeschools their 3 kids. Tynker provides self-paced courses with tutoring baked right in. Their tutorials are interactive and fun for kids, allowing them to unlock achievements and badges, create customized projects and characters and build video games while they learn programming concepts. Sharing projects on the web with others is a big focus of Tynker’s and they hold summer camps to foster collaboration and knowledge-sharing. They occasionally run <a href="http://www.tynker.com/blog/articles/tynker/a-room-full-of-girls-coding/" target="_blank">workshops exclusively for girls</a> as well.</p>
 <p>Are you an old hat at getting kids into tech? Know all the cool, fun, hip new programming and tech apps, toys and tools out there? Share your top picks in the comments below!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Morning Habits of 6 Successful People in Technology</title>
-		<link>/https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/</link>
+		<comments>https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 18:10:49 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Advice]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=31</guid>
-		<description><![CDATA[A great morning routine can really make or break your day. In her book What the Most Successful People Do Before Breakfast, Laura Vanderkam writes, “Seizing your mornings is the equivalent of that sound financial advice to pay yourself first.  If you wait until the end of the month to save what you have left, there...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[A great morning routine can really make or break your day. In her book What the Most Successful People Do Before Breakfast, Laura Vanderkam writes, “Seizing your mornings is the equivalent of that sound financial advice to pay yourself first.  If you wait until the end of the month to save what you have left, there...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>A great morning routine can really make or break your day. In her book <em><a href="http://www.amazon.com/Successful-People-Breakfast-Mornings-ebook/dp/B007K3E2YK/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;tag=marandang-20" target="_blank" rel="noopener">What the Most Successful People Do Before Breakfast</a></em>, Laura Vanderkam writes, “Seizing your mornings is the equivalent of that sound financial advice to pay yourself first.  If you wait until the end of the month to save what you have left, there will be nothing left over.  Likewise, if you wait until the end of the day to do meaningful but not urgent things like exercise, pray, read, ponder how to advance your career or grow your organization, or truly give your family your best, it probably won’t happen.”</p>
 <blockquote><p>Even if you have never considered yourself a morning person, you are going to have to figure out how to work around that as some of the most successful people in the world attribute a lot of their productivity to a stellar morning routine. Check out these kings and queens of technology and their amazing morning routines.</p>
 <footer>Padmasree Warrior,  Cisco Chief Technical and Strategy Officer</footer>
@@ -219,20 +219,20 @@ Put your marketing chops to work at this content marketing company, InfoScout. T
 <p>Von Tobel is also in support of a morning workout followed by a plan to the minute day. She told <a href="http://observer.com/2014/04/learnvest-founder-alexa-von-tobel-q-and-a/#ixzz33mpMd9Om" target="_blank" rel="noopener">The Observer</a>:</p>
 <blockquote><p>I start with an early morning workout (whether a power walk with friends, barre class or spin class), which is critical to feeling energized for the whole day. My calendar is often scheduled down to 15-minute intervals, so I can (attempt to!) make time for everything — internal and external meetings, speaking events, interviews, etc. I try to put as much as possible on auto-pilot (ex: using shortcuts like eating basically the same thing for breakfast and lunch). Also, I like to tackle the hardest things first, so I think through my priorities the night before and make sure I have time for my most strategic work.</p></blockquote>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>10 WordPress Plugins You Can’t Live Without</title>
-		<link>/https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/</link>
+		<comments>https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 18:08:57 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[WordPress]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=28</guid>
-		<description><![CDATA[When starting a web site or a blog of any kind on WordPress there are certain plugins that can make your life 1000x easier. Not only will they save you time, but plugins can bring your site to the next level by making it more usable, searchable, and innovative. So what is this magical “plugin”...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[When starting a web site or a blog of any kind on WordPress there are certain plugins that can make your life 1000x easier. Not only will they save you time, but plugins can bring your site to the next level by making it more usable, searchable, and innovative. So what is this magical “plugin”...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>When starting a web site or a blog of any kind on WordPress there are certain plugins that can make your life 1000x easier. Not only will they save you time, but plugins can bring your site to the next level by making it more usable, searchable, and innovative.</p>
 <p>So what is this magical “plugin” we speak of? A plugin is simply a program that you can install to add a <em>specific</em> feature to your website. For WordPress, these plugins are written in PHP and integrate seamlessly with your site.</p>
 <h2>Installing A Plugin</h2>
@@ -274,20 +274,20 @@ Put your marketing chops to work at this content marketing company, InfoScout. T
 <p>If you ever filled out a contact form on a blog, it very well may be through Contact Form. This plugin provides easy contact forms for blogs (i.e. contact us for help / advertising, etc.). It also works in conjunction with Askimet (above!) so there won’t be any spam abuse with these forms. [<a href="https://wordpress.org/plugins/contact-form-7/" target="_blank">Download here</a>]</p>
 <p>Do you have any particularly helpful WordPress plugins? We’re always on the lookout for new favorites! Let us know.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Top 25 Sites For Finding Remote Jobs</title>
-		<link>/https://sashakyunghwa.github.io/blog/the-top-25-sites-for-finding-remote-jobs/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/the-top-25-sites-for-finding-remote-jobs/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/the-top-25-sites-for-finding-remote-jobs/</link>
+		<comments>https://sashakyunghwa.github.io/blog/the-top-25-sites-for-finding-remote-jobs/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 18:07:34 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Career]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=26</guid>
-		<description><![CDATA[As you wait impatiently in line for your mislabeled coffee cup (you’re already going to be 20 minutes late to the office), take a step back and think: THIS could be your office. You could skip the commute, bring your laptop and charger, and power through your to do list from anywhere, wherever you are. Working...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/the-top-25-sites-for-finding-remote-jobs/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[As you wait impatiently in line for your mislabeled coffee cup (you’re already going to be 20 minutes late to the office), take a step back and think: THIS could be your office. You could skip the commute, bring your laptop and charger, and power through your to do list from anywhere, wherever you are. Working...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/the-top-25-sites-for-finding-remote-jobs/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>As you wait impatiently in line for your <a href="http://www.eonline.com/news/577755/this-is-why-starbucks-baristas-spell-your-name-wrong-on-coffee-cups" target="_blank">mislabeled</a> coffee cup (you’re already going to be 20 minutes late to the office), take a step back and think: THIS could be your office. You could skip the commute, bring your laptop and charger, and power through your to do list from anywhere, wherever you are.</p>
 <p>Working remotely – whether from home, Starbucks, or another creative place – is booming. A Virgin Media Business <a href="http://thenextweb.com/uk/2012/02/22/home-sweet-home-60-of-uk-employees-could-be-working-remotely-within-a-decade/" target="_blank">survey</a> recently predicted that 60% of office-based employees will regularly work from home by 2022. And a separate survey featured in<a href="http://www.theguardian.com/money/work-blog/2014/apr/30/what-happened-to-remote-working">The Guardian</a> found that ⅓ of employees think commuting will be unheard of by 2036.</p>
 <p>But, that’s the future and this is today, you say to yourself. You don’t have the skills or the resources to find a gig that would give you that kind of flexibility. That’s for 20-somethings working on a startup who code in hoodies, or stay-at-home moms who work as part-time assistants.</p>
@@ -355,13 +355,13 @@ Put your marketing chops to work at this content marketing company, InfoScout. T
 <h3>25. Jewelry: <a href="http://www.stelladot.com/">Stella &amp; Dot</a></h3>
 <p>This jewelry company has a “flexible entrepreneurship” model for stylists: host in-home or online trunk shows to display jewelry to friends. Flexibility and stye in one! If this doesn’t fit your style, there are several jewelry companies providing this type of remote job opportunity including <a href="https://www.chloeandisabel.com/">Chloe &amp; Isabel</a> and <a href="http://trend-tribe.com/">Trend Tribe</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/the-top-25-sites-for-finding-remote-jobs/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/the-top-25-sites-for-finding-remote-jobs/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>My 5 Favorite Code Learning Resources</title>
-		<link>/https://sashakyunghwa.github.io/blog/my-5-favorite-code-learning-resources/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/my-5-favorite-code-learning-resources/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/my-5-favorite-code-learning-resources/</link>
+		<comments>https://sashakyunghwa.github.io/blog/my-5-favorite-code-learning-resources/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 17:45:15 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Listicles]]></category>
@@ -378,7 +378,7 @@ Put your marketing chops to work at this content marketing company, InfoScout. T
 <li><a href="codeschool.com">Code School</a> &#8211; Great advanced tutorials and learning.</li>
 </ol>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/my-5-favorite-code-learning-resources/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/my-5-favorite-code-learning-resources/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

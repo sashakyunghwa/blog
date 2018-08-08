@@ -10,7 +10,7 @@
 <channel>
 	<title>Technology &#8211; Sasha Ross</title>
 	<atom:link href="http://localhost/wordpress/category/technology/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://sashakyunghwa.github.io/blog</link>
+	<link>https://sashakyunghwa.github.io/blog</link>
 	<description>WordPress Developer Extraordinaire</description>
 	<lastBuildDate>Tue, 07 Aug 2018 00:23:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,15 +19,15 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>Tech Term: PHP</title>
-		<link>/https://sashakyunghwa.github.io/blog/tech-term-php/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/tech-term-php/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/tech-term-php/</link>
+		<comments>https://sashakyunghwa.github.io/blog/tech-term-php/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 18:13:16 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=35</guid>
-		<description><![CDATA[When you ask a web server for a page, it’s PHP’s job to create it. When you browse a WordPress blog or make a post on Facebook, PHP is putting it all together. If you wanted a very simple PHP page to greet you every time you looked at it, it might look something like...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/tech-term-php/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[When you ask a web server for a page, it’s PHP’s job to create it. When you browse a WordPress blog or make a post on Facebook, PHP is putting it all together. If you wanted a very simple PHP page to greet you every time you looked at it, it might look something like...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/tech-term-php/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>When you ask a web server for a page, it’s PHP’s job to create it. When you browse a WordPress blog or make a post on Facebook, PHP is putting it all together.</p>
 <p>If you wanted a very simple PHP page to greet you every time you looked at it, it might look something like this:</p>
 <p><code>&lt;?php echo “Hi there stranger!”; ?&gt;</code></p>
@@ -38,7 +38,7 @@
 <h5 class="cocktail-party-header">Cocktail Party Fact</h5>
 <p>PHP supposedly stands for “PHP: Hypertext Preprocessor.” If you said “Hey, but that doesn’t say what PHP means!” then you get the point ;).</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/tech-term-php/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/tech-term-php/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

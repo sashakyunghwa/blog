@@ -10,7 +10,7 @@
 <channel>
 	<title>Advice &#8211; Sasha Ross</title>
 	<atom:link href="http://localhost/wordpress/category/advice/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://sashakyunghwa.github.io/blog</link>
+	<link>https://sashakyunghwa.github.io/blog</link>
 	<description>WordPress Developer Extraordinaire</description>
 	<lastBuildDate>Tue, 07 Aug 2018 00:23:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,15 +19,15 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>The Morning Habits of 6 Successful People in Technology</title>
-		<link>/https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/</link>
+		<comments>https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 18:10:49 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Advice]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=31</guid>
-		<description><![CDATA[A great morning routine can really make or break your day. In her book What the Most Successful People Do Before Breakfast, Laura Vanderkam writes, “Seizing your mornings is the equivalent of that sound financial advice to pay yourself first.  If you wait until the end of the month to save what you have left, there...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[A great morning routine can really make or break your day. In her book What the Most Successful People Do Before Breakfast, Laura Vanderkam writes, “Seizing your mornings is the equivalent of that sound financial advice to pay yourself first.  If you wait until the end of the month to save what you have left, there...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>A great morning routine can really make or break your day. In her book <em><a href="http://www.amazon.com/Successful-People-Breakfast-Mornings-ebook/dp/B007K3E2YK/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;tag=marandang-20" target="_blank" rel="noopener">What the Most Successful People Do Before Breakfast</a></em>, Laura Vanderkam writes, “Seizing your mornings is the equivalent of that sound financial advice to pay yourself first.  If you wait until the end of the month to save what you have left, there will be nothing left over.  Likewise, if you wait until the end of the day to do meaningful but not urgent things like exercise, pray, read, ponder how to advance your career or grow your organization, or truly give your family your best, it probably won’t happen.”</p>
 <blockquote><p>Even if you have never considered yourself a morning person, you are going to have to figure out how to work around that as some of the most successful people in the world attribute a lot of their productivity to a stellar morning routine. Check out these kings and queens of technology and their amazing morning routines.</p>
 <footer>Padmasree Warrior,  Cisco Chief Technical and Strategy Officer</footer>
@@ -47,7 +47,7 @@
 <p>Von Tobel is also in support of a morning workout followed by a plan to the minute day. She told <a href="http://observer.com/2014/04/learnvest-founder-alexa-von-tobel-q-and-a/#ixzz33mpMd9Om" target="_blank" rel="noopener">The Observer</a>:</p>
 <blockquote><p>I start with an early morning workout (whether a power walk with friends, barre class or spin class), which is critical to feeling energized for the whole day. My calendar is often scheduled down to 15-minute intervals, so I can (attempt to!) make time for everything — internal and external meetings, speaking events, interviews, etc. I try to put as much as possible on auto-pilot (ex: using shortcuts like eating basically the same thing for breakfast and lunch). Also, I like to tackle the hardest things first, so I think through my priorities the night before and make sure I have time for my most strategic work.</p></blockquote>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/the-morning-habits-of-6-successful-people-in-technology/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

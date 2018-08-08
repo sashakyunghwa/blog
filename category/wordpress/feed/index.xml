@@ -10,7 +10,7 @@
 <channel>
 	<title>WordPress &#8211; Sasha Ross</title>
 	<atom:link href="http://localhost/wordpress/category/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://sashakyunghwa.github.io/blog</link>
+	<link>https://sashakyunghwa.github.io/blog</link>
 	<description>WordPress Developer Extraordinaire</description>
 	<lastBuildDate>Tue, 07 Aug 2018 00:23:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,15 +19,15 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>WordPress for fun &#038; profit</title>
-		<link>/https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/#comments</comments>
+		<link>https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/</link>
+		<comments>https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/#comments</comments>
 		<pubDate>Sun, 12 Oct 2014 18:18:14 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[WordPress]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=39</guid>
-		<description><![CDATA[Want to know the secret to my success? How I managed to learn how to code and immediately start making money with my coding skills, while continuing to learn? The answer is simple: WordPress. WordPress is one of those incredible open source gifts that just gives and gives and gives some more. And for the...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[Want to know the secret to my success? How I managed to learn how to code and immediately start making money with my coding skills, while continuing to learn? The answer is simple: WordPress. WordPress is one of those incredible open source gifts that just gives and gives and gives some more. And for the...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p dir="ltr">Want to know the secret to <a href="http://skillcrush.com/2013/06/16/the-best-career-decision-i-ever-made/">my success</a>? How I managed to learn how to code and immediately start making money with my coding skills, while continuing to learn?</p>
 <p dir="ltr">The answer is simple: <a href="http://skillcrush.com/2013/08/01/wordpress-for-fun-profit/wordpress.org">WordPress</a>.</p>
 <p dir="ltr">WordPress is one of those incredible <a href="http://skillcrush.com/2012/08/29/open-source-software/">open source</a> gifts that just gives and gives and gives some more. And for the beginning coder who wants to keep learning new programming skills while making some money, WordPress is hands down the way to go.</p>
@@ -50,20 +50,20 @@ Oh, by the way, WordPress is incredibly easy to install on your local machine (l
 </strong>Last, but not least, knowing how to customize WordPress is a seriously marketable tech skill. There are many many freelancers and companies that have built entire careers on hacking WordPress. Just ask our friend <a href="http://skillcrush.com/2013/04/05/zoe-rooney/">Zoe</a>!</p>
 <p dir="ltr">Have I convinced you that WordPress is awesome? Fantastic! Watch out for a post next week about advanced WordPress techniques.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>WordPress.com or WordPress.org? How to choose the right one for your blog</title>
-		<link>/https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/</link>
+		<comments>https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 18:15:01 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[WordPress]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=37</guid>
-		<description><![CDATA[When I launched my blog in 2012, I went about it like this: I Googled “WordPress blog,” clicked a button that said, “get a free blog,” and I started rolling. A year later, I realized I should have done more research. I wanted to change my site layout and add functions (like a hovering Pinterest button), and...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[When I launched my blog in 2012, I went about it like this: I Googled “WordPress blog,” clicked a button that said, “get a free blog,” and I started rolling. A year later, I realized I should have done more research. I wanted to change my site layout and add functions (like a hovering Pinterest button), and...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>When I launched <a href="http://skillcrush.com/2014/06/05/wordpress-com-vs-wordpress-org/www.crandlecakes.com">my blog</a> in 2012, I went about it like this: I Googled “WordPress blog,” clicked <a href="http://zh.wordpress.com/">a button</a> that said, “get a free blog,” and I started rolling.</p>
 <p>A year later, I realized I should have done more research. I wanted to change my site layout and add functions (like a hovering Pinterest button), and I realized (oh nooos!) I needed a “WordPress.org blog” for that.</p>
 <p>Getting a “WordPress.org blog,” it turns out, really means downloading the free, open-source <a href="http://wordpress.org/">WordPress web software</a> and using a third-party hosting service (like GoDaddy or Bluehost) to get your site online.</p>
@@ -85,13 +85,13 @@ Oh, by the way, WordPress is incredibly easy to install on your local machine (l
 <p>Self-hosting is an upfront cost that ranges from a few dollars a month to closer to hundreds per year. But using a free WordPress.com blog and adding a lot of additional features can get pricey. Infographic cost comparison:<a href="http://howtomakemyblog.com/wordpress-com-org/">http://howtomakemyblog.com/wordpress-com-org/</a></p>
 <p>When it comes down to it, WordPress.com is a valuable tool for users looking for a free option, who don’t need to customize or make money off of their site. But getting a self-hosted site through WordPress.org provides the most flexibility, freedom, and opportunity for growth. And let’s face it, you’re going to want to use this site to become a moneybags, and WordPress.org allows more freedom for turning your hard work into cold hard cash.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/wordpress-com-or-wordpress-org-how-to-choose-the-right-one-for-your-blog/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Classifieds: WordPress Edition</title>
-		<link>/https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/</link>
+		<comments>https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 18:14:06 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Career]]></category>
@@ -99,7 +99,7 @@ Oh, by the way, WordPress is incredibly easy to install on your local machine (l
 		<category><![CDATA[WordPress]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=36</guid>
-		<description><![CDATA[Looking for a new job where you can put your tech know-how to work? Having digital skills opens up a world of career choices for you. Take a look at some of the latest and greatest jobs we’ve found that’ll let you flex your digital muscles. Today, we’re featuring jobs that require WordPress skills –...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[Looking for a new job where you can put your tech know-how to work? Having digital skills opens up a world of career choices for you. Take a look at some of the latest and greatest jobs we’ve found that’ll let you flex your digital muscles. Today, we’re featuring jobs that require WordPress skills –...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>Looking for a new job where you can put your tech know-how to work? Having digital skills opens up a world of career choices for you. Take a look at some of the latest and greatest jobs we’ve found that’ll let you flex your digital muscles.</p>
 <p>Today, we’re featuring jobs that require WordPress skills – and learn more by signing up to watch our webinar on Friday, August 1st: <a href="http://skillcrush.com/webinar-august-1st-signup">3 Ways to Make WordPress Bullet-Proof!</a></p>
 <p><strong>Position: <a href="https://bu.silkroad.com/epostings/index.cfm?fuseaction=app.dspjob&amp;jobid=296409&amp;company_id=15509&amp;version=1&amp;jobBoardId=1112">Designer, Marketing &amp; Communications, Interactive Design</a><br />
@@ -119,20 +119,20 @@ Company: <a href="http://infoscout.theresumator.com/apply/job_20140721170815_LB4
 Location: San Francisco, CA</strong><br />
 Put your marketing chops to work at this content marketing company, InfoScout. The current blog, InfoScout.co, is only scratching the surface of what can be done with the company’s data – so you will report directly to the CEO in this amazing opportunity to take the content to the next level. Bring your go-getter attitude to optimizing content, managing the WordPress blog, and growing the InfoScout newsletter base!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/classifieds-wordpress-edition/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>10 WordPress Plugins You Can’t Live Without</title>
-		<link>/https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/</link>
+		<comments>https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 18:08:57 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[WordPress]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=28</guid>
-		<description><![CDATA[When starting a web site or a blog of any kind on WordPress there are certain plugins that can make your life 1000x easier. Not only will they save you time, but plugins can bring your site to the next level by making it more usable, searchable, and innovative. So what is this magical “plugin”...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[When starting a web site or a blog of any kind on WordPress there are certain plugins that can make your life 1000x easier. Not only will they save you time, but plugins can bring your site to the next level by making it more usable, searchable, and innovative. So what is this magical “plugin”...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>When starting a web site or a blog of any kind on WordPress there are certain plugins that can make your life 1000x easier. Not only will they save you time, but plugins can bring your site to the next level by making it more usable, searchable, and innovative.</p>
 <p>So what is this magical “plugin” we speak of? A plugin is simply a program that you can install to add a <em>specific</em> feature to your website. For WordPress, these plugins are written in PHP and integrate seamlessly with your site.</p>
 <h2>Installing A Plugin</h2>
@@ -174,7 +174,7 @@ Put your marketing chops to work at this content marketing company, InfoScout. T
 <p>If you ever filled out a contact form on a blog, it very well may be through Contact Form. This plugin provides easy contact forms for blogs (i.e. contact us for help / advertising, etc.). It also works in conjunction with Askimet (above!) so there won’t be any spam abuse with these forms. [<a href="https://wordpress.org/plugins/contact-form-7/" target="_blank">Download here</a>]</p>
 <p>Do you have any particularly helpful WordPress plugins? We’re always on the lookout for new favorites! Let us know.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/10-wordpress-plugins-you-cant-live-without/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

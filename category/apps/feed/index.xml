@@ -10,7 +10,7 @@
 <channel>
 	<title>Apps &#8211; Sasha Ross</title>
 	<atom:link href="http://localhost/wordpress/category/apps/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://sashakyunghwa.github.io/blog</link>
+	<link>https://sashakyunghwa.github.io/blog</link>
 	<description>WordPress Developer Extraordinaire</description>
 	<lastBuildDate>Tue, 07 Aug 2018 00:23:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,15 +19,15 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>4 Games You Will Want Your Kids to Play</title>
-		<link>/https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/</link>
+		<comments>https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/#respond</comments>
 		<pubDate>Sun, 12 Oct 2014 18:12:09 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">http://localhost:8888/starter/?p=33</guid>
-		<description><![CDATA[It’s back to school season parents! Are you excited? Frantic? Both? You have a lot on your plate – starting hectic morning routines anew, helping with homework, packing healthy lunches, managing after school activities, WHEW.  And of-course during all this you’re probably wondering if your kids are learning the right things at school and how...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/"><span>Read more</span> »</a></div>]]></description>
+		<description><![CDATA[It’s back to school season parents! Are you excited? Frantic? Both? You have a lot on your plate – starting hectic morning routines anew, helping with homework, packing healthy lunches, managing after school activities, WHEW.  And of-course during all this you’re probably wondering if your kids are learning the right things at school and how...<div class="read-more"><a href="https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/"><span>Read more</span> »</a></div>]]></description>
 				<content:encoded><![CDATA[<p>It’s back to school season parents! Are you excited? Frantic? Both? You have a lot on your plate – starting hectic morning routines anew, helping with homework, packing healthy lunches, managing after school activities, WHEW.  And of-course during all this you’re probably wondering if your kids are learning the right things at school and how you can supplement their education at home.</p>
 <p>You’ve no doubt heard about the importance of computer literacy and getting your kids into programming and coding. But with the abundance of apps, toys, and books available, it’s hard to know where to start. Here are my top 4 choices for parents looking to get their young ones into tech:</p>
 <h3>1. <a href="http://www.gethopscotch.com/" target="_blank">Hopscotch</a></h3>
@@ -40,7 +40,7 @@
 <p>I learned about Tynker from my old boss, who’s wife Tanya homeschools their 3 kids. Tynker provides self-paced courses with tutoring baked right in. Their tutorials are interactive and fun for kids, allowing them to unlock achievements and badges, create customized projects and characters and build video games while they learn programming concepts. Sharing projects on the web with others is a big focus of Tynker’s and they hold summer camps to foster collaboration and knowledge-sharing. They occasionally run <a href="http://www.tynker.com/blog/articles/tynker/a-room-full-of-girls-coding/" target="_blank">workshops exclusively for girls</a> as well.</p>
 <p>Are you an old hat at getting kids into tech? Know all the cool, fun, hip new programming and tech apps, toys and tools out there? Share your top picks in the comments below!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

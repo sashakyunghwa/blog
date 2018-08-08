@@ -10,7 +10,7 @@
 <channel>
 	<title>Freelancing &#8211; Sasha Ross</title>
 	<atom:link href="http://localhost/wordpress/category/freelancing/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://sashakyunghwa.github.io/blog</link>
+	<link>https://sashakyunghwa.github.io/blog</link>
 	<description>WordPress Developer Extraordinaire</description>
 	<lastBuildDate>Tue, 07 Aug 2018 00:23:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,8 +19,8 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>How Much Should You Charge for Freelance Web Design?</title>
-		<link>/https://sashakyunghwa.github.io/blog/freelance-rates/</link>
-		<comments>/https://sashakyunghwa.github.io/blog/freelance-rates/#respond</comments>
+		<link>https://sashakyunghwa.github.io/blog/freelance-rates/</link>
+		<comments>https://sashakyunghwa.github.io/blog/freelance-rates/#respond</comments>
 		<pubDate>Thu, 02 Oct 2014 16:40:57 +0000</pubDate>
 		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
 				<category><![CDATA[Blog]]></category>
@@ -43,7 +43,7 @@
 <p>Even so, didn&#8217;t you start this whole freelancing thing so you could up your income? But how can you avoid lowballing your client if you aren&#8217;t sure what fees are standard in the industry?</p>
 <p>When it comes to setting your freelance rates, there&#8217;s no one-size-fits-all. There are so many questions to consider: <em>How long will the project take? Is the client a breeze to work with? (or not?) How much money do you need to make to turn a profit? How much experience do you have?</em></p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/freelance-rates/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sashakyunghwa.github.io/blog/freelance-rates/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
