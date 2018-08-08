@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Listicles &#8211; Sasha Ross</title>
+	<atom:link href="http://localhost/wordpress/category/listicles/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://sashakyunghwa.github.io/blog</link>
+	<description>WordPress Developer Extraordinaire</description>
+	<lastBuildDate>Tue, 07 Aug 2018 00:23:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>My 5 Favorite Code Learning Resources</title>
+		<link>/https://sashakyunghwa.github.io/blog/my-5-favorite-code-learning-resources/</link>
+		<comments>/https://sashakyunghwa.github.io/blog/my-5-favorite-code-learning-resources/#respond</comments>
+		<pubDate>Sun, 12 Oct 2014 17:45:15 +0000</pubDate>
+		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
+				<category><![CDATA[Listicles]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost:8888/starter/?p=19</guid>
+		<description><![CDATA[Skillcrush &#8211; just the best! Try Ruby &#8211; I love WHY! Jon Duckett &#8211; Best books on programming. Period. Rails Girls &#8211; Super cool, international code learning organization. Girl Develop It &#8211; Equally awesome in-person workshops all over the US. Code School &#8211; Great advanced tutorials and learning.]]></description>
+				<content:encoded><![CDATA[<ol>
+<li><a href="http://skillcrush.com/">Skillcrush</a> &#8211; just the best!</li>
+<li><a href="http://tryruby.org/">Try Ruby</a> &#8211; I love WHY!</li>
+<li><a href="http://www.htmlandcssbook.com/">Jon Duckett</a> &#8211; Best books on programming. Period.</li>
+<li><a href="http://railsgirls.com/">Rails Girls</a> &#8211; Super cool, international code learning organization.</li>
+<li><a href="http://girldevelopit.com/">Girl Develop It </a>&#8211; Equally awesome in-person workshops all over the US.</li>
+<li><a href="codeschool.com">Code School</a> &#8211; Great advanced tutorials and learning.</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/my-5-favorite-code-learning-resources/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

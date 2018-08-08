@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Technology &#8211; Sasha Ross</title>
+	<atom:link href="http://localhost/wordpress/category/technology/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://sashakyunghwa.github.io/blog</link>
+	<description>WordPress Developer Extraordinaire</description>
+	<lastBuildDate>Tue, 07 Aug 2018 00:23:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Tech Term: PHP</title>
+		<link>/https://sashakyunghwa.github.io/blog/tech-term-php/</link>
+		<comments>/https://sashakyunghwa.github.io/blog/tech-term-php/#respond</comments>
+		<pubDate>Sun, 12 Oct 2014 18:13:16 +0000</pubDate>
+		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost:8888/starter/?p=35</guid>
+		<description><![CDATA[When you ask a web server for a page, it’s PHP’s job to create it. When you browse a WordPress blog or make a post on Facebook, PHP is putting it all together. If you wanted a very simple PHP page to greet you every time you looked at it, it might look something like...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/tech-term-php/"><span>Read more</span> »</a></div>]]></description>
+				<content:encoded><![CDATA[<p>When you ask a web server for a page, it’s PHP’s job to create it. When you browse a WordPress blog or make a post on Facebook, PHP is putting it all together.</p>
+<p>If you wanted a very simple PHP page to greet you every time you looked at it, it might look something like this:</p>
+<p><code>&lt;?php echo “Hi there stranger!”; ?&gt;</code></p>
+<p>That would make a web page that looked like this:</p>
+<p class="code">Hi there stranger!</p>
+<p>One of the reasons many people learn PHP instead of Ruby or Python is that it comes installed on pretty much every web server out there. If you happen to have a bit of web space to your name, chances are you’re able to run PHP.</p>
+<p>A pretty typical way you’ll see people working with PHP is along with Linux (an operating system), <a title="Web Server" href="http://skillcrush.com/2012/07/03/web-server-2/">Apache</a> (a web server), <a title="MySQL" href="http://skillcrush.com/2012/12/04/mysql-2/">MySQL</a> (a database), and PHP. This kind of setup is called LAMP.</p>
+<h5 class="cocktail-party-header">Cocktail Party Fact</h5>
+<p>PHP supposedly stands for “PHP: Hypertext Preprocessor.” If you said “Hey, but that doesn’t say what PHP means!” then you get the point ;).</p>
+]]></content:encoded>
+			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/tech-term-php/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

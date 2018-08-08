@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Career Success &#8211; Sasha Ross</title>
+	<atom:link href="http://localhost/wordpress/category/career-success/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://sashakyunghwa.github.io/blog</link>
+	<description>WordPress Developer Extraordinaire</description>
+	<lastBuildDate>Tue, 07 Aug 2018 00:23:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>How Much Should You Charge for Freelance Web Design?</title>
+		<link>/https://sashakyunghwa.github.io/blog/freelance-rates/</link>
+		<comments>/https://sashakyunghwa.github.io/blog/freelance-rates/#respond</comments>
+		<pubDate>Thu, 02 Oct 2014 16:40:57 +0000</pubDate>
+		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Career Success]]></category>
+		<category><![CDATA[Freelancing]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[charge]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[freelance]]></category>
+		<category><![CDATA[prices]]></category>
+		<category><![CDATA[rates]]></category>
+		<category><![CDATA[web design]]></category>
+
+		<guid isPermaLink="false">http://skillcrush.com/?p=47329</guid>
+		<description><![CDATA[Setting your freelance rates: demystified. ]]></description>
+				<content:encoded><![CDATA[<h3><a style="text-decoration: none; color: #222222; font-weight: bold;" href="https://skillcrush.com/2014/10/02/freelance-rates/" target="_blank">Are you charging too much?</a></h3>
+<h3>Or not enough?</h3>
+<p>When you are a freelancer, you set your own prices. There&#8217;s no boss to give you a raise, and no HR manager to negotiate your salary with.</p>
+<p>Getting your first couple freelance jobs is exhilarating. Someone is trusting YOU with their business, putting their brand in YOUR hands. It&#8217;s easy to feel like you are the lucky one. <em>They hired ME? But I&#8217;ve only been doing this for a few months!</em></p>
+<p>Even so, didn&#8217;t you start this whole freelancing thing so you could up your income? But how can you avoid lowballing your client if you aren&#8217;t sure what fees are standard in the industry?</p>
+<p>When it comes to setting your freelance rates, there&#8217;s no one-size-fits-all. There are so many questions to consider: <em>How long will the project take? Is the client a breeze to work with? (or not?) How much money do you need to make to turn a profit? How much experience do you have?</em></p>
+]]></content:encoded>
+			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/freelance-rates/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

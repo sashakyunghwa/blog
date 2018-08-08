@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Apps &#8211; Sasha Ross</title>
+	<atom:link href="http://localhost/wordpress/category/apps/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://sashakyunghwa.github.io/blog</link>
+	<description>WordPress Developer Extraordinaire</description>
+	<lastBuildDate>Tue, 07 Aug 2018 00:23:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>4 Games You Will Want Your Kids to Play</title>
+		<link>/https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/</link>
+		<comments>/https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/#respond</comments>
+		<pubDate>Sun, 12 Oct 2014 18:12:09 +0000</pubDate>
+		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost:8888/starter/?p=33</guid>
+		<description><![CDATA[It’s back to school season parents! Are you excited? Frantic? Both? You have a lot on your plate – starting hectic morning routines anew, helping with homework, packing healthy lunches, managing after school activities, WHEW.  And of-course during all this you’re probably wondering if your kids are learning the right things at school and how...<div class="read-more"><a href="/https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/"><span>Read more</span> »</a></div>]]></description>
+				<content:encoded><![CDATA[<p>It’s back to school season parents! Are you excited? Frantic? Both? You have a lot on your plate – starting hectic morning routines anew, helping with homework, packing healthy lunches, managing after school activities, WHEW.  And of-course during all this you’re probably wondering if your kids are learning the right things at school and how you can supplement their education at home.</p>
+<p>You’ve no doubt heard about the importance of computer literacy and getting your kids into programming and coding. But with the abundance of apps, toys, and books available, it’s hard to know where to start. Here are my top 4 choices for parents looking to get their young ones into tech:</p>
+<h3>1. <a href="http://www.gethopscotch.com/" target="_blank">Hopscotch</a></h3>
+<p>This iPad app lets kids drag and drop functioning blocks of code to build their own programs. The app teaches kids programming fundamentals as well as critical thinking and problem solving skills in a creative environment. The app fosters a “learn by experimenting” attitude and encourages kids to play and try things and see what works. Hopscotch was actually inspired by Scratch, # 3 on this list. Hopscotch cofounders Jocelyn Leavitt and Samantha John hope to get girls into programming earlier and help fill the void of women in tech.</p>
+<h3>2. <a href="http://www.helloruby.com/" target="_blank">Hello Ruby</a></h3>
+<p>We love everything about Linda Liukas and her upcoming children’s book Hello Ruby. The book raised $100k in 24 hours on Kickstarter and more than exceeded its initial goal of $10k by raising just over $380k at the end of its campaign. The book aims to teach 4-7 year olds about programming and open source culture through a smart, mischievous female protagonist and her whimsical adventures. Parents get a workbook so they can learn and help their kids solve problems in the accompanying activity book. We interviewed Liukas at the completion of her Kickstarter project – <a href="http://skillcrush.com/2014/02/21/skillcrush-linda-liukas-rails-girls/" target="_blank">you can read that interview here.</a></p>
+<h3>3. <a href="http://scratch.mit.edu/" target="_blank">Scratch</a></h3>
+<p>Scratch is a brainchild of the Lifelong Kindergarten Group at MIT’s Media Lab. It’s a programming language and comes with an extensive online community of it’s own. It’s designed for kids aged 8-16 and is totally free to use. Scratch allows students to create their own animations, interactive stories and much more. It uses drag and drop blocks of code similar to Hopscotch.</p>
+<h3>4. <a href="http://www.tynker.com/" target="_blank">Tynker</a></h3>
+<p>I learned about Tynker from my old boss, who’s wife Tanya homeschools their 3 kids. Tynker provides self-paced courses with tutoring baked right in. Their tutorials are interactive and fun for kids, allowing them to unlock achievements and badges, create customized projects and characters and build video games while they learn programming concepts. Sharing projects on the web with others is a big focus of Tynker’s and they hold summer camps to foster collaboration and knowledge-sharing. They occasionally run <a href="http://www.tynker.com/blog/articles/tynker/a-room-full-of-girls-coding/" target="_blank">workshops exclusively for girls</a> as well.</p>
+<p>Are you an old hat at getting kids into tech? Know all the cool, fun, hip new programming and tech apps, toys and tools out there? Share your top picks in the comments below!</p>
+]]></content:encoded>
+			<wfw:commentRss>/https://sashakyunghwa.github.io/blog/4-games-you-will-want-your-kids-to-play/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

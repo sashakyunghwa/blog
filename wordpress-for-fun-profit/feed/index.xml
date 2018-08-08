@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: WordPress for fun &#038; profit</title>
+	<atom:link href="http://localhost/wordpress/wordpress-for-fun-profit/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/</link>
+	<description>WordPress Developer Extraordinaire</description>
+	<lastBuildDate>Tue, 07 Aug 2018 00:31:39 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: sashakyunghwa</title>
+		<link>/https://sashakyunghwa.github.io/blog/wordpress-for-fun-profit/#comment-3</link>
+		<dc:creator><![CDATA[sashakyunghwa]]></dc:creator>
+		<pubDate>Tue, 07 Aug 2018 00:31:39 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8888/starter/?p=39#comment-3</guid>
+		<description><![CDATA[this is dope]]></description>
+		<content:encoded><![CDATA[<p>this is dope</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
